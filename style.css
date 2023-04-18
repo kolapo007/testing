@@ -1,0 +1,15 @@
+input{
+    outline: none;
+}
+form{
+    margin: 100px 0px 0px  400px;
+    /* margin: auto; */
+}
+#mine{
+    align-items: center;
+    margin-left: 190px;
+}
+p{
+    text-align: center;
+    margin-right: 200px;
+}
